@@ -59,5 +59,4 @@
   </form>
 
 </body>
-</html><img width="267" height="267" alt="Arata logo" src="https://github.com/user-attachments/assets/bac2f709-8c67-4f59-8fed-fb9e7ca44df0" />
-
+</html>
