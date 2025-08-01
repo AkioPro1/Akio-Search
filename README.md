@@ -53,7 +53,7 @@
   <img src="Arata logo.png" alt="My Logo" />
 
   <form action="https://www.google.com/search" method="GET">
-    <input type="text" name="q" placeholder="Search Google..." required />
+    <input type="text" name="q" placeholder="Search For Answers..." required />
     <input type="submit" value="Search" />
   </form>
 
