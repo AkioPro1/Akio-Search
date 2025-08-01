@@ -1,5 +1,3 @@
-# Akio-Search
-Search For Answers.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,7 +51,7 @@ Search For Answers.
 <body>
 
   <!-- Replace this src with your own logo URL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png" alt="My Logo" />
+  <img src="Arata logo.png" alt="My Logo" />
 
   <form action="https://www.google.com/search" method="GET">
     <input type="text" name="q" placeholder="Search Google..." required />
@@ -61,4 +59,5 @@ Search For Answers.
   </form>
 
 </body>
-</html>
+</html><img width="267" height="267" alt="Arata logo" src="https://github.com/user-attachments/assets/bac2f709-8c67-4f59-8fed-fb9e7ca44df0" />
+
